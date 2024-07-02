@@ -108,4 +108,4 @@ function placeFood() {
 	
 	foodY = Math.floor(Math.random() * total_row) * blockSize; 
 }
-fgadg
+
